@@ -1,2 +1,4 @@
-# cows-and-bulls
-cows and bulls number guessing game
+# Random Games I made
+RPS
+Hangman
+Cows and Bulls number guessing game
